@@ -96,7 +96,7 @@ const Footer = () => {
                     <h6 className='ps-0 border-0 d-flex align-items-center gap-2'>
                       <span><i class="ri-phone-line"></i></span>
                       Tel:
-                      <p className="mb-0">02174837473</p>
+                      <p className="mb-0">00000000000</p>
                     </h6>
                   </ListGroupItem>
             </ListGroup>
@@ -117,7 +117,7 @@ const Footer = () => {
                     <h6 className='ps-0 border-0 d-flex align-items-center gap-2'>
                       <span><i class="ri-mail-fill"></i></span>
                       Email:
-                      <p className="mb-0">info@traveltour.co.za</p>
+                      <p className="mb-0">aaaaaaaaaaaaaaaaaa</p>
                     </h6>
                   </ListGroupItem>
             </ListGroup>
